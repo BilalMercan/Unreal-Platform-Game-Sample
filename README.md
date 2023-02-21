@@ -13,7 +13,7 @@ Features used;
 - İnteraction Widget 
 
 ##### Project Structure
-- Unreal Engine Version: 5.3 
+- Unreal Engine Version: 5
 - The project was developed with C++. Some classes were created with blueprint.
 
 
@@ -31,5 +31,5 @@ Kullanılan özellikler;
 
 
 ##### Proje Yapısı
-- Unreal Engine Version: 5.3  
+- Unreal Engine Version: 5
 - Proje C++ ile geliştirilmiştir. Bazı sınıflar blueprint ile oluşturuldu.
